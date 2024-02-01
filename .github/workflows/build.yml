@@ -10,7 +10,8 @@ jobs:
       matrix:
 # List of keymap json files to build
         file:
-        - corne.json
+        - corne-rev1.json
+        - corne-r2g.json
 # End of json file list
 
     steps:
